@@ -6,10 +6,9 @@
     font-family: Arial, Helvetica, sans-serif;
 
 }
-html, body {
+html{
     width: 100vw;
     height: 100vh;
-    background-color: aquamarine;
 }
 body{
     background: url(imagens/fundo-madeira.jpg)no-repeat top center;
